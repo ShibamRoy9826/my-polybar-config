@@ -1,0 +1,24 @@
+/* colors */
+
+* {
+  al:   #00000000;
+  bg:   #1e1e2e;
+  bga:  #681dcf;
+  bar:  #1e1e2e;
+  fg:   #FFFFFFFF;
+  ac:   #cba6f7;  
+}
+
+/*
+my first customization
+ac: #fe5696
+bar: #FFFFFFFF
+bg: #1F1F1FFF
+bga: #681dcf
+*/
+
+/* ac: #ffb300FF;
+   bar: #1F1F1FFF;
+   bga: #ffb30033;
+*/
+
